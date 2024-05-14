@@ -1,0 +1,53 @@
+{
+  "titulo": "FAQ - Emissão de RG em Tocantins",
+  "perguntas_e_respostas": {
+    "agendamento": {
+      "pergunta": "Como agendar a emissão do RG?",
+      "resposta": "O agendamento é feito online toda sexta-feira, às 14h, para a semana seguinte. Acesse o link: [link de agendamento](https://servicos.to.gov.br/NovoAgendamentoAtendimento.aspx)"
+    },
+    "vagas_esgotamento": {
+      "pergunta": "As vagas se esgotam rápido?",
+      "resposta": "Sim, devido à alta demanda. Tente o agendamento online no dia e horário indicados."
+    },
+    "encaixe_presencial": {
+      "pergunta": "E se não conseguir agendar online?",
+      "resposta": "É possível tentar o encaixe presencialmente nos locais de atendimento, mas pode haver espera."
+    },
+    "locais_atendimento": {
+      "pergunta": "Onde posso emitir o RG em Tocantins?",
+      "resposta": "Você pode emitir o RG em:"
+    },
+    "lista_locais": {
+      "item1": "Central de Atendimento da Polícia Civil (Av Teotônio Segurado, ao lado do Hotel Itália)",
+      "item2": "Detran",
+      "item3": "Assembleia Legislativa"
+    },
+    "documentos_necessarios": {
+      "pergunta": "Quais documentos preciso levar para emitir o RG?",
+      "resposta": "Você precisará de:"
+    },
+    "lista_documentos": {
+      "item1": "Certidão de nascimento original e cópia",
+      "item2": "CPF original e cópia"
+    },
+    "certidao_antecedentes": {
+      "pergunta": "Como faço para obter a Certidão de Antecedentes Criminais?",
+      "resposta": "1. Solicite online no site da SEFAZ: [link SEFAZ](https://www.to.gov.br/ssp/emissao-de-atestado-de-antecedentes/5hkdofwnrszh). 2. Pague a taxa. 3. Retire no Protocolo do IITO 24h após a solicitação e pagamento."
+    },
+    "certidao_antecedentes_email": {
+      "pergunta": "Posso solicitar a Certidão de Antecedentes Criminais por e-mail?",
+      "resposta": "Sim, envie um e-mail para registroscriminais@pc.to.gov.br. O tempo de espera é maior."
+    },
+    "entrega_documentos": {
+      "pergunta": "Como recebo o RG?",
+      "resposta": "As identidades emitidas em bancas itinerantes serão entregues após a conclusão do processo e impressão."
+    },
+    "antecipacao_emissao": {
+      "pergunta": "Posso solicitar a antecipação da emissão do RG?",
+      "resposta": "Sim, em casos urgentes como viagens. Envie o comprovante da viagem como justificativa."
+    },
+    "antecipacao_funcionamento": {
+      "pergunta": "Como funciona a antecipação da emissão?",
+      "resposta": "A emissão da CIN passa por Receita Federal e Ministério da Justiça para validação e autorização da impressão."
+    }
+  }
